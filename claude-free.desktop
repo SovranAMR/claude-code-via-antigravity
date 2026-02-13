@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Claude Code Free
+Comment=Start Claude Code with free Antigravity proxy
+Exec=bash %SCRIPT_DIR%/start.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=Development;

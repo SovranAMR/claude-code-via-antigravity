@@ -1,0 +1,5 @@
+node_modules/
+.claude-code-via-antigravity-credentials.json
+.claude-code-via-antigravity-proxy.log
+*.log
+.DS_Store
